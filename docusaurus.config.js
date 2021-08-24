@@ -6,8 +6,8 @@ module.exports = {
   title: "Millbohm Consulting Group",
   tagline:
     "Brisbane-based corporate services firm providing both company secretarial and financial management services",
-  url: "https://millbohm.com/",
-  baseUrl: "/",
+  url: "https://millbohm.github.io/",
+  baseUrl: "/website/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
   favicon: "img/favicon.ico",
